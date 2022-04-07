@@ -1,0 +1,35 @@
+2021-03-11 16:48:43,170 ERROR Log Browser name please check 
+2021-03-11 16:48:49,191  INFO Log **************************VerifyAddResident**************** 
+2021-03-11 16:48:49,191  INFO Log Successfully launched browser 
+2021-03-11 16:49:04,358  INFO Log Successfully Navigated to Residents Details 
+2021-03-11 16:49:04,472  INFO Log Successfully entered First Name:Test 
+2021-03-11 16:49:04,593  INFO Log Successfully entered Last Name:Test 
+2021-03-11 16:49:05,706  INFO Log Successfully entered Email:test@t.com 
+2021-03-11 16:49:06,805  INFO Log Successfully entered phnoe Number:6734573835 
+2021-03-11 16:49:06,918  INFO Log Successfully entered date of birth:12/01/1990 
+2021-03-11 16:49:13,654  INFO Log Successfully Closed the browser 
+2021-03-11 16:49:13,654  INFO Log **************************End Test Case**************** 
+2021-03-11 17:05:34,957 ERROR Log Browser name please check 
+2021-03-11 17:05:38,955  INFO Log **************************VerifyAddResident**************** 
+2021-03-11 17:05:38,955  INFO Log Successfully launched browser 
+2021-03-11 17:05:52,924  INFO Log Successfully Navigated to Residents Details 
+2021-03-11 17:05:53,051  INFO Log Successfully entered First Name:Test 
+2021-03-11 17:05:53,159  INFO Log Successfully entered Last Name:Test 
+2021-03-11 17:05:54,285  INFO Log Successfully entered Email:test@t.com 
+2021-03-11 17:05:55,381  INFO Log Successfully entered phnoe Number:6734573835 
+2021-03-11 17:05:55,490  INFO Log Successfully entered date of birth:12/01/1990 
+2021-03-11 17:06:02,302  INFO Log Successfully Closed the browser 
+2021-03-11 17:06:02,302  INFO Log **************************End Test Case**************** 
+2022-03-16 14:24:58,463 ERROR Log Browser name please check 
+2022-03-16 14:25:15,166  INFO Log **************************VerifyAddResident**************** 
+2022-03-16 14:25:15,167  INFO Log Successfully launched browser 
+2022-03-16 14:25:58,485  INFO Log Successfully Navigated to Residents Details 
+2022-03-16 14:25:58,636  INFO Log Successfully entered First Name:Test 
+2022-03-16 14:25:58,773  INFO Log Successfully entered Last Name:Test 
+2022-03-16 14:25:59,903  INFO Log Successfully entered Email:test@t.com 
+2022-03-16 14:26:01,025  INFO Log Successfully entered phnoe Number:6734573835 
+2022-03-16 14:26:01,172  INFO Log Successfully entered date of birth:12/01/1990 
+2022-03-16 14:26:08,121  INFO Log Successfully Closed the browser 
+2022-03-16 14:26:08,121  INFO Log **************************End Test Case**************** 
+2022-03-16 14:27:48,859 ERROR Log Browser name please check 
+2022-03-16 14:28:24,626 ERROR Log Browser name please check 
